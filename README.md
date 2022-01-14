@@ -1,4 +1,4 @@
-o_o
+currently: studying computer systems technology
 
 <!---
 klownox/klownox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
